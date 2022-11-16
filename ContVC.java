@@ -12,6 +12,6 @@ public class ContVC {
             count ++;
          }
       }
-      System.out.println("Number of vowels in the given sentence is "+count);
+      System.out.println("il numero di vocali è "+count);
    }
 }
